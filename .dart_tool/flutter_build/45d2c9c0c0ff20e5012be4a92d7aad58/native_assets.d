@@ -1,0 +1,1 @@
+ C:\\Users\\guaja\\Desktop\\portfolio\\la_botavara\\botavara\\.dart_tool\\flutter_build\\45d2c9c0c0ff20e5012be4a92d7aad58\\native_assets.yaml: 
